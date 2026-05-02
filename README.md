@@ -157,9 +157,13 @@ Then the top 10 notifications are displayed.
 Add screenshots here before submission:
 
 - `screenshots/home.png`
-![Home Screen](home.png)
+
+<img width="1470" height="956" alt="home" src="https://github.com/user-attachments/assets/ab847f2c-4c64-4dea-bfbb-725eef39c122" />
+
 - `screenshots/priority.png`
-![Priority Inbox](priority.png)
+ <img width="1470" height="956" alt="priority" src="https://github.com/user-attachments/assets/81c7270d-02ef-47d8-9ed8-4672e590d1f2" />
+
+
 ---
 
 ## Submission Notes
